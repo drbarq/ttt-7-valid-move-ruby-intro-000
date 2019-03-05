@@ -2,14 +2,14 @@
 def valid_move
   if position_taken == false && index.between(0,8)
     true
-  else 
+  else
     false
   end
 end
 
-    # array[index] = 
-    
-    
+    # array[index] =
+
+
 
 
 
